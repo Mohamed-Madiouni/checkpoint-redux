@@ -1,6 +1,17 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
+.count{
+  width: 40px;
+  margin: 10px;
+}
+.counter{
+border: 2px solid black;
+width: 120px;
+}
+
 
 .App-logo {
   height: 40vmin;
